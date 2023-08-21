@@ -1,2 +1,2 @@
-# qnuralink.github..io
+# qnuralink.github.io
 Qnuralink, an AI to IC driver
